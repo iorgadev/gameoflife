@@ -1,0 +1,47 @@
+{
+  //vscode
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "blink",
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#ffffff",
+    "editorCursor.foreground": "#ff4ea0"
+  },
+  //editor
+  "workbench.editor.openPositioning": "last",
+  "html.format.wrapAttributes": "force-aligned",
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.triggerExpansionOnTab": true,
+  //hmtl
+  "[html]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  //tailwind
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "tailwindCSS.emmetCompletions": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "cSpell.ignoreWords": [
+    "botwave",
+    "checkmark",
+    "component",
+    "favourite",
+    "favourites",
+    "get",
+    "gtag",
+    "iorga's",
+    "list",
+    "newreleases",
+    "ryerson",
+    "spotify",
+    "token",
+    "topwave",
+    "tracks"
+  ],
+  "cSpell.words": ["iorga", "pageview"]
+}
