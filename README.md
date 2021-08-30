@@ -1,5 +1,7 @@
 Game Of Life - based on [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
+![game  of life](https://raw.githubusercontent.com/iorgadev/gameoflife/main/public/screenshot.png "game of life - react")
+
 Made in React using NextJS and SASS for styling.
 
 ## Getting Started
